@@ -2,6 +2,19 @@
 
 ----
 
+
+## ⚙️ SSH Cheat Sheet – Table of Contents
+
+- ⚙️ [What is SSH?](#what-is-ssh)
+- 📡 [What is SSH Used For?](#what-is-ssh-used-for)
+- 💻 [How to Use SSH](#how-to-use-ssh)
+- 🛠️ [Useful SSH Command Options](#useful-ssh-command-options)
+- 🔑 [Security Tips](#security-tips)
+- ⚠️ [For Educational Purposes Only](#for-educational-purposes-only)
+
+
+
+---
 **SSH** (Secure Shell) is a protocol that allows secure connection and management of a remote computer (server) over a network. It is used for secure access to the shell on a remote machine, meaning you can control the server as if you were physically in front of it.
 
 ## 📡What is SSH used for?
